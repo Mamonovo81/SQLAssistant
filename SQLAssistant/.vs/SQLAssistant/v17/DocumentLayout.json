@@ -3,11 +3,26 @@
   "WorkspaceRootPath": "C:\\Work\\C#\\SQLAssistant\\SQLAssistant\\SQLAssistant\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83F17618-F8B9-49AC-B8CF-E74D166572EF}|SQLAssistant.csproj|c:\\work\\c#\\sqlassistant\\sqlassistant\\sqlassistant\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{83F17618-F8B9-49AC-B8CF-E74D166572EF}|SQLAssistant.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9C1CA4CA-ED3C-49F2-B8B6-E3108EA0EA58}|..\\SQLAssistant23SqLite\\SQLAssistant23SqLite.csproj|c:\\work\\c#\\sqlassistant\\sqlassistant\\sqlassistant23sqlite\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DCAE0F-DE6E-42E4-BE88-5879E7FFE761}|..\\SQLAssistant22MsSql\\SQLAssistant22MsSql.csproj|c:\\work\\c#\\sqlassistant\\sqlassistant\\sqlassistant22mssql\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449E39AF-5A1E-4AE8-AEA1-88A220E0DB08}|..\\SQLAssistant21MySql\\SQLAssistant21MySql.csproj|c:\\work\\c#\\sqlassistant\\sqlassistant\\sqlassistant21mysql\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346B28B3-32E9-4EC8-BE32-5B37182E1F78}|..\\SQLAssistant29Dal\\SQLAssistant29Dal.csproj|c:\\work\\c#\\sqlassistant\\sqlassistant\\sqlassistant29dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SQLAssistant||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA7FDA8-456D-409B-8236-4DC45400D207}|..\\SQLAssistant10Common\\SQLAssistant10Common.csproj|c:\\work\\c#\\sqlassistant\\sqlassistant\\sqlassistant10common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F17618-F8B9-49AC-B8CF-E74D166572EF}|SQLAssistant.csproj|c:\\work\\c#\\sqlassistant\\sqlassistant\\sqlassistant\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{83F17618-F8B9-49AC-B8CF-E74D166572EF}|SQLAssistant.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,22 +44,80 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SQLAssistant",
-              "DocumentMoniker": "C:\\Work\\C#\\SQLAssistant\\SQLAssistant\\SQLAssistant\\SQLAssistant.csproj",
-              "RelativeDocumentMoniker": "SQLAssistant.csproj",
-              "ToolTip": "C:\\Work\\C#\\SQLAssistant\\SQLAssistant\\SQLAssistant\\SQLAssistant.csproj",
-              "RelativeToolTip": "SQLAssistant.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-02-21T15:05:35.084Z"
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Work\\C#\\SQLAssistant\\SQLAssistant\\SQLAssistant23SqLite\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\SQLAssistant23SqLite\\Class1.cs",
+              "ToolTip": "C:\\Work\\C#\\SQLAssistant\\SQLAssistant\\SQLAssistant23SqLite\\Class1.cs",
+              "RelativeToolTip": "..\\SQLAssistant23SqLite\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T16:39:48.207Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Work\\C#\\SQLAssistant\\SQLAssistant\\SQLAssistant22MsSql\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\SQLAssistant22MsSql\\Class1.cs",
+              "ToolTip": "C:\\Work\\C#\\SQLAssistant\\SQLAssistant\\SQLAssistant22MsSql\\Class1.cs",
+              "RelativeToolTip": "..\\SQLAssistant22MsSql\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T16:38:49.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Work\\C#\\SQLAssistant\\SQLAssistant\\SQLAssistant21MySql\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\SQLAssistant21MySql\\Class1.cs",
+              "ToolTip": "C:\\Work\\C#\\SQLAssistant\\SQLAssistant\\SQLAssistant21MySql\\Class1.cs",
+              "RelativeToolTip": "..\\SQLAssistant21MySql\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T16:36:55.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Work\\C#\\SQLAssistant\\SQLAssistant\\SQLAssistant29Dal\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\SQLAssistant29Dal\\Class1.cs",
+              "ToolTip": "C:\\Work\\C#\\SQLAssistant\\SQLAssistant\\SQLAssistant29Dal\\Class1.cs",
+              "RelativeToolTip": "..\\SQLAssistant29Dal\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T16:27:59.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Work\\C#\\SQLAssistant\\SQLAssistant\\SQLAssistant10Common\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\SQLAssistant10Common\\Class1.cs",
+              "ToolTip": "C:\\Work\\C#\\SQLAssistant\\SQLAssistant\\SQLAssistant10Common\\Class1.cs",
+              "RelativeToolTip": "..\\SQLAssistant10Common\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T16:24:12.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Work\\C#\\SQLAssistant\\SQLAssistant\\SQLAssistant\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -53,6 +126,17 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-21T14:57:01.311Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SQLAssistant",
+              "DocumentMoniker": "C:\\Work\\C#\\SQLAssistant\\SQLAssistant\\SQLAssistant\\SQLAssistant.csproj",
+              "RelativeDocumentMoniker": "SQLAssistant.csproj",
+              "ToolTip": "C:\\Work\\C#\\SQLAssistant\\SQLAssistant\\SQLAssistant\\SQLAssistant.csproj",
+              "RelativeToolTip": "SQLAssistant.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-21T15:05:35.084Z"
             }
           ]
         }

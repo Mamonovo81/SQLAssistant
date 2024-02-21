@@ -5,6 +5,16 @@ VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLAssistant", "SQLAssistant.csproj", "{83F17618-F8B9-49AC-B8CF-E74D166572EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLAssistant10Common", "..\SQLAssistant10Common\SQLAssistant10Common.csproj", "{6EA7FDA8-456D-409B-8236-4DC45400D207}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLAssistant29Dal", "..\SQLAssistant29Dal\SQLAssistant29Dal.csproj", "{346B28B3-32E9-4EC8-BE32-5B37182E1F78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLAssistant21MySql", "..\SQLAssistant21MySql\SQLAssistant21MySql.csproj", "{449E39AF-5A1E-4AE8-AEA1-88A220E0DB08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLAssistant22MsSql", "..\SQLAssistant22MsSql\SQLAssistant22MsSql.csproj", "{A1DCAE0F-DE6E-42E4-BE88-5879E7FFE761}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLAssistant23SqLite", "..\SQLAssistant23SqLite\SQLAssistant23SqLite.csproj", "{9C1CA4CA-ED3C-49F2-B8B6-E3108EA0EA58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +25,26 @@ Global
 		{83F17618-F8B9-49AC-B8CF-E74D166572EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83F17618-F8B9-49AC-B8CF-E74D166572EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83F17618-F8B9-49AC-B8CF-E74D166572EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EA7FDA8-456D-409B-8236-4DC45400D207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EA7FDA8-456D-409B-8236-4DC45400D207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EA7FDA8-456D-409B-8236-4DC45400D207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EA7FDA8-456D-409B-8236-4DC45400D207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{346B28B3-32E9-4EC8-BE32-5B37182E1F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{346B28B3-32E9-4EC8-BE32-5B37182E1F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{346B28B3-32E9-4EC8-BE32-5B37182E1F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{346B28B3-32E9-4EC8-BE32-5B37182E1F78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{449E39AF-5A1E-4AE8-AEA1-88A220E0DB08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{449E39AF-5A1E-4AE8-AEA1-88A220E0DB08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{449E39AF-5A1E-4AE8-AEA1-88A220E0DB08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{449E39AF-5A1E-4AE8-AEA1-88A220E0DB08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1DCAE0F-DE6E-42E4-BE88-5879E7FFE761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1DCAE0F-DE6E-42E4-BE88-5879E7FFE761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1DCAE0F-DE6E-42E4-BE88-5879E7FFE761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1DCAE0F-DE6E-42E4-BE88-5879E7FFE761}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C1CA4CA-ED3C-49F2-B8B6-E3108EA0EA58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C1CA4CA-ED3C-49F2-B8B6-E3108EA0EA58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C1CA4CA-ED3C-49F2-B8B6-E3108EA0EA58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C1CA4CA-ED3C-49F2-B8B6-E3108EA0EA58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
